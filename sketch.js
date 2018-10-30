@@ -42,11 +42,8 @@ var d;
 var myPokemon= {};
 var morePokemon = []
 
-//img
-//var pokePngs = [poke1 ,poke2,poke3,poke4,poke5,poke6,poke7,poke8,poke9,poke10,
-//  poke11,poke12,poke13,poke14,poke15,poke16,poke17,poke18,poke19,poke20];
-//console.log(pokePngs.length);
-var pokeCount;
+
+
 
 function setup() {
   // put setup code here
